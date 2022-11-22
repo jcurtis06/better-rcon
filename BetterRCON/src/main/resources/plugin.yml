@@ -1,0 +1,8 @@
+name: BetterRCON
+version: '${version}'
+main: io.jcurtis.betterrcon.BetterRCON
+api-version: 1.19
+prefix: [ BetterRCON ]
+authors: [ jcurtis06 ]
+description: A Minecraft Spigot plugin for secure RCON connectivity via RESTful API
+website: https://github.com/jcurtis06/better-rcon
